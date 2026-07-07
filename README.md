@@ -1,8 +1,7 @@
-### Hi there, I'm SonicoZapdos 👋
+### Hi there, I'm Gustavo 👋
 
-- 🔭 I’m currently working on full-stack;
-- 🌱 I’m currently learning html, css, js, ts, c#;
-- 💬 Ask me about I'm 20, my real name is Gustavo, I from Brazil and I like programm, make games, music and pixel arts;
+- 🔭 I’m currently working on Front-End Next JS;
+- 💬 Ask me about I'm 21, I from Brazil and I like programm, make games, music and pixel arts;
 - 📫 How to reach me: <br>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsvKVfxHBkqCqhPVSJVhVQWBnWWCSbRQlNvgdkrMjzRvbvkdjdTdwZMBXPlpGPshlTQSq" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/SonicoZapdos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
